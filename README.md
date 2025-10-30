@@ -1,70 +1,85 @@
-- 👋 Hi, I’m @Rohit30Confluence
-- 👀 I’m interested in Science - Computer
-- 🌱 I’m currently learning SQL-JS-KOTLIN-JAVA
-- 💞️ I’m looking to collaborate on work of backend
-- 📫 How to reach me rohitdinde30@gmail.com / 
-- 😄 Pronouns: Mr. / Dr.
-- ⚡ Fun fact: Artist directing computer engineering degree
+# 👋 Hey, I’m Rohit Dattatray Dinde  
 
-<!---
-Rohit30Confluence/Rohit30Confluence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-# 👋 Hi, I’m Rohit Dattatray Dinde
-
-### 🚀 Aspiring Cybersecurity & AI Engineer | Hands-on Security Automation | Open Source Contributor
+### 🧩 Cybersecurity | AI | Automation | Engineering Curiosity  
 
 ---
 
-## 🧠 About Me
-I am a passionate Bachelor of Engineering graduate with Honors in Artificial Intelligence from Pune University (Class of 2025).  
-Currently, I’m focused on building practical cybersecurity skills through hands-on labs, projects, and open-source contributions — with strong interests in SIEM, threat detection, Python automation, and incident response.
+## 🕰️ The Journey So Far  
+
+> *“Everything starts with curiosity, ends with creation.”*  
+
+Back in the early days of my Computer Engineering degree (2019), I was the kid who broke systems just to understand how they worked.  
+From scripting small automations to debugging Linux commands, every bug became a teacher.  
+
+That led to deeper exploration in:  
+- 🐍 **Python scripting** — where logic meets creativity  
+- 🔒 **Cybersecurity fundamentals** — because prevention is smarter than recovery  
+- 💾 **Databases and SQL** — structuring chaos into clarity  
+
+As the semesters rolled by, the focus sharpened: **protect systems before they fail**.  
 
 ---
 
-## 🔧 Skills & Tools
-- **Languages & Scripting:** Python, SQL, Bash, Linux CLI  
-- **Cybersecurity Tools:** Splunk, Wireshark, SIEM, IDS, Security Incident Response  
-- **Concepts & Frameworks:** Threat Detection, Phishing Analysis, MITRE ATT&CK, SOC Operations  
-- **Soft Skills:** Teamwork, Communication, Attention to Detail
+## ⚙️ Where I Stand Now  
+
+> *“Code is power only when guided by intent.”*  
+
+Today, I’m building hands-on projects that combine **AI-driven analysis**, **security automation**, and **data intelligence**.  
+
+My current GitHub work revolves around:  
+- **Phishing Log Detector** – Automating phishing log analysis and IOC detection  
+- **Security Task Automation** – Python scripts that simplify SOC workflows  
+- **Network Threat Labs** – Experiments integrating Splunk, Wireshark, and custom analytics  
+- **Incident Response Simulations** – Playbooks for attack detection and mitigation  
+
+I also contribute to open-source efforts that emphasize **automation in threat detection**, **security orchestration**, and **ethical defense strategies**.  
 
 ---
 
-## 📂 Projects & Labs
+## 🚀 What Comes Next  
 
-- **[Phishing Log Detector](https://github.com/Rohit30Confluence/phishing-log-detector)**  
-  Python CLI tool to detect phishing attempts from access logs using IOC matching.
+> *“Technology evolves. So must we.”*  
 
-- **Security Task Automation**  
-  Automated routine security tasks with Python scripts to improve efficiency and accuracy.
+My future roadmap focuses on three pillars:  
 
-- **Threat Detection with Splunk & Wireshark**  
-  Hands-on analysis of network traffic and log data to identify malicious activity.
+1. **Innovation in Cyber Defense** – using AI and automation to detect, respond, and neutralize threats faster than ever.  
+2. **Collaboration** – engaging with developers, researchers, and engineers who care about real-world security problems.  
+3. **Continuous Learning** – expanding expertise in cloud security, digital forensics, and AI for risk prediction.  
 
-- **Incident Response Scenarios**  
-  Simulated SIEM log analysis and incident response playbooks.
+I see GitHub not just as a code host, but as a **timeline of growth** — documenting failures, breakthroughs, and everything in between.  
 
 ---
 
-## 🌐 Connect with Me
-- 📧 rohitdinde30@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rohitdinde)  
-- 💻 [GitHub](https://github.com/Rohit30Confluence)  
+## 🧠 Tech Arsenal  
+
+**Languages:** Python, SQL, Bash, Kotlin, Java  
+**Domains:** Cybersecurity, AI, Data Engineering  
+**Tools:** Splunk, Wireshark, Snort, Linux, GitHub Actions  
+**Concepts:** SIEM, Threat Detection, Incident Response, MITRE ATT&CK  
 
 ---
 
-## 📈 GitHub Stats
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit30Confluence&show_icons=true&theme=dark)
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit30Confluence&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit30Confluence&theme=tokyonight" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit30Confluence&layout=compact&theme=tokyonight" width="47%"/>
+</p>
 
 ---
 
-## 🎯 Goals
-- Secure a cybersecurity role leveraging my skills in security automation and threat detection.  
-- Continuously learn and contribute to open-source security projects.  
-- Build a career focused on protecting systems through proactive detection and response.
+## 🌐 Connect  
+
+📧 **Email:** [rohitdinde30@gmail.com](mailto:rohitdinde30@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/rohitdinde](https://www.linkedin.com/in/rohitdinde)  
+💻 **GitHub:** [github.com/Rohit30Confluence](https://github.com/Rohit30Confluence)  
 
 ---
 
-Thanks for visiting my profile! Feel free to connect or collaborate.
-
+<p align="center">
+  <i>“From writing my first script to defending future systems — every commit is a step toward something bigger.”</i>  
+</p>
