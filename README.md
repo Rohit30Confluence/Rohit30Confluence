@@ -81,5 +81,5 @@ I see GitHub not just as a code host, but as a **timeline of growth** — docume
 ---
 
 <p align="center">
-  <i>“From writing my first script to defending future systems — every commit is a step toward something bigger.”</i>  
+  <i>“From writing first script to defending future systems — every commit is a step toward something bigger.”</i>  
 </p>
