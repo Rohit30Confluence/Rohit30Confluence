@@ -61,12 +61,12 @@ GitHub isn’t just where I code — it’s a **timeline of growth** documenting
 ## 🏅 Holopin Achievements  
 
 <p align="center">
-  <a href="https://www.holopin.io/@rohit30confluence">
-    <img src="https://holopin.me/rohit30confluence?columns=4" alt="Holopin Badges" />
+  <a href="https://holopin.io/@rohit30confluence">
+    <img src="https://holopin.me/rohit30confluence" alt="@rohit30confluence Holopin Badges" width="80%"/>
   </a>
 </p>
 
-> *Each badge marks a milestone — from open-source sprints to real-world security learning.*
+> *Each badge represents a challenge completed — from open-source to cybersecurity learning.*
 
 ---
 
