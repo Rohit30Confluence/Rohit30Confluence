@@ -1,6 +1,6 @@
-# 👋 Hey, I’m Rohit Dattatray Dinde  
+# 👋 Hey, I’m **Rohit Dattatray Dinde**  
 
-### 🧩 Cybersecurity | AI | Automation | Engineering Curiosity  
+### 🧩 Cybersecurity | AI | Automation | IoT | Cloud-Native Engineering  
 
 ---
 
@@ -8,54 +8,65 @@
 
 > *“Everything starts with curiosity, ends with creation.”*  
 
-Back in the early days of my Computer Engineering degree (2019), I was the kid who broke systems just to understand how they worked.  
-From scripting small automations to debugging Linux commands, every bug became a teacher.  
+It all began in 2019 — breaking things just to rebuild them better.  
+From exploring how systems fail to scripting automations that make them resilient, every bug became a teacher.  
 
-That led to deeper exploration in:  
-- 🐍 **Python scripting** — where logic meets creativity  
-- 🔒 **Cybersecurity fundamentals** — because prevention is smarter than recovery  
-- 💾 **Databases and SQL** — structuring chaos into clarity  
+Over time, this curiosity evolved into a mission: **securing and automating the future**.  
 
-As the semesters rolled by, the focus sharpened: **protect systems before they fail**.  
+- 🐍 **Python scripting** — turning problems into programmable logic  
+- 🔒 **Cybersecurity & Threat Detection** — defending before disaster  
+- 💾 **Databases & NoSQL** — making chaos structured  
+- ⚙️ **DevOps & Dockerization** — bridging build and deploy seamlessly  
+
+Now, I combine **security**, **AI**, and **automation** to build intelligent, resilient systems.
 
 ---
 
-## ⚙️ Where I Stand Now  
+## ⚙️ Current Focus  
 
 > *“Code is power only when guided by intent.”*  
 
-Today, I’m building hands-on projects that combine **AI-driven analysis**, **security automation**, and **data intelligence**.  
-
-My current GitHub work revolves around:  
-- **Phishing Log Detector** – Automating phishing log analysis and IOC detection  
-- **Security Task Automation** – Python scripts that simplify SOC workflows  
-- **Network Threat Labs** – Experiments integrating Splunk, Wireshark, and custom analytics  
-- **Incident Response Simulations** – Playbooks for attack detection and mitigation  
-
-I also contribute to open-source efforts that emphasize **automation in threat detection**, **security orchestration**, and **ethical defense strategies**.  
+Building and experimenting in areas like:  
+- 🧠 **AI-Driven Threat Detection** — automating SOC workflows using ML  
+- 🧩 **IoT Security** — integrating network defense with device analytics  
+- 🔍 **Phishing Log Detection** — automated analysis and IOC extraction  
+- ⚡ **Security Task Automation** — streamlining digital forensics processes  
+- 🧰 **Incident Response Playbooks** — for proactive mitigation and recovery  
 
 ---
 
-## 🚀 What Comes Next  
+## 🚀 Roadmap Ahead  
 
 > *“Technology evolves. So must we.”*  
 
-My future roadmap focuses on three pillars:  
+Next milestones I’m working toward:  
+1. **AI in Cyber Defense** — real-time threat prediction and mitigation  
+2. **Cloud Security R&D** — scaling secure infrastructures using containers  
+3. **Open Source Collaboration** — building community-driven detection frameworks  
+4. **Continuous Learning** — expanding in DFIR, SOC engineering, and OSINT tooling  
 
-1. **Innovation in Cyber Defense** – using AI and automation to detect, respond, and neutralize threats faster than ever.  
-2. **Collaboration** – engaging with developers, researchers, and engineers who care about real-world security problems.  
-3. **Continuous Learning** – expanding expertise in cloud security, digital forensics, and AI for risk prediction.  
-
-I see GitHub not just as a code host, but as a **timeline of growth** — documenting failures, breakthroughs, and everything in between.  
+GitHub isn’t just where I code — it’s a **timeline of growth** documenting curiosity, resilience, and technical evolution.
 
 ---
 
 ## 🧠 Tech Arsenal  
 
-**Languages:** Python, SQL, Bash, Kotlin, Java  
-**Domains:** Cybersecurity, AI, Data Engineering  
-**Tools:** Splunk, Wireshark, Snort, Linux, GitHub Actions  
-**Concepts:** SIEM, Threat Detection, Incident Response, MITRE ATT&CK  
+**Languages:** Python · SQL · Bash · Kotlin · Java  
+**Domains:** Cybersecurity · AI · IoT · Cloud Computing · Automation  
+**Frameworks & Tools:** Splunk · Wireshark · Snort · Docker · Nginx · GitHub Actions  
+**Concepts:** SIEM · Threat Detection · Incident Response · MITRE ATT&CK · CI/CD Pipelines  
+
+---
+
+## 🏅 Holopin Achievements  
+
+<p align="center">
+  <a href="https://www.holopin.io/@rohit30confluence">
+    <img src="https://holopin.me/rohit30confluence?columns=4" alt="Holopin Badges" />
+  </a>
+</p>
+
+> *Each badge marks a milestone — from open-source sprints to real-world security learning.*
 
 ---
 
@@ -77,9 +88,10 @@ I see GitHub not just as a code host, but as a **timeline of growth** — docume
 📧 **Email:** [rohitdinde30@gmail.com](mailto:rohitdinde30@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/rohitdinde](https://www.linkedin.com/in/rohitdinde)  
 💻 **GitHub:** [github.com/Rohit30Confluence](https://github.com/Rohit30Confluence)  
+🏆 **Holopin:** [holopin.io/@rohit30confluence](https://www.holopin.io/@rohit30confluence)
 
 ---
 
 <p align="center">
-  <i>“From writing first script to defending future systems — every commit is a step toward something bigger.”</i>  
-</p> 
+  <i>“From writing the first script to defending future systems — every commit is a step toward something bigger.”</i>  
+</p>
