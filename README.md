@@ -61,12 +61,20 @@ GitHub isn’t just where I code — it’s a **timeline of growth** documenting
 ## 🏅 Holopin Achievements  
 
 <p align="center">
-  <a href="https://holopin.io/@rohit30confluence">
-    <img src="https://holopin.me/rohit30confluence" alt="@rohit30confluence Holopin Badges" width="80%"/>
+  <a href="https://www.holopin.io/userbadge/cmhlg2c3i0018l4042heudzyc">
+    <img src="https://www.holopin.io/userbadge/cmhlg2c3i0018l4042heudzyc.png" alt="Holopin Badge 1" width="110" />
+  </a>
+  
+  <a href="https://www.holopin.io/userbadge/cmhg2f7is0001la04vikhpirc">
+    <img src="https://www.holopin.io/userbadge/cmhg2f7is0001la04vikhpirc.png" alt="Holopin Badge 2" width="110" />
+  </a>
+  
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhlioyel000wic0462b1845u">
+    <img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmhlioyel000wic0462b1845u.png" alt="Hacktoberfest 2025 Holopin Badge" width="110" />
   </a>
 </p>
 
-> *Each badge represents a challenge completed — from open-source to cybersecurity learning.*
+> *Each badge represents a step in continuous learning — from hackathons to open-source and cybersecurity innovation.*
 
 ---
 
