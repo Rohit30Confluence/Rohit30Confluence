@@ -78,6 +78,38 @@ GitHub isn’t just where I code — it’s a **timeline of growth** documenting
 
 ---
 
+## 🧠 Repository Insights  
+
+> *“Code means little without consistency — progress defines expertise.”*
+
+### 🚀 Active Projects  
+| Repository | Domain | Status | Description |
+|-------------|---------|---------|--------------|
+| [**log-analyzer-attack-detection**](https://github.com/Rohit30Confluence/log-analyzer-attack-detection) | Cybersecurity · AI | 🧠 In Development | AI-based log analyzer for automated attack pattern detection and threat visualization. |
+| [**Project-Image-Classification-with-CIFAR-10**](https://github.com/Rohit30Confluence/Project-Image-Classification-with-CIFAR-10) | Deep Learning | ✅ Completed | CNN-based image classifier with accuracy tuning and model visualization. |
+| [**IoT-Security-Gateway**](#) | IoT · Network Security | 🧩 Research Phase | Experimenting with IoT device authentication and secure data flow management. |
+| [**Automation-SOC-Scripts**](#) | Security Automation | ⚙️ Building | Python scripts for log correlation, IOC extraction, and SOC routine optimization. |
+
+---
+
+### 📅 Work Breakdown  
+- **Completed:** Model training, base security scripts, repository documentation  
+- **Ongoing:** Integration of AI-driven detection with live network data  
+- **Pending:** Testing on containerized environments (Docker + Nginx) and CI/CD implementation  
+
+---
+
+### 🔍 Next Action Plan  
+1. Standardize repo documentation (`README + setup guides`) for reproducibility  
+2. Integrate static code analysis with GitHub Actions  
+3. Develop visual analytics dashboard for incident reports  
+4. Optimize data flow for IoT-based security logs  
+
+---
+
+> *Each repository marks a milestone in building smarter, self-defending systems.*
+
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
