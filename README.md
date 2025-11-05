@@ -82,12 +82,13 @@ GitHub isn’t just where I code — it’s a **timeline of growth** documenting
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohit30Confluence&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit30Confluence&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rohit30Confluence&theme=tokyonight" width="47%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit30Confluence&layout=compact&theme=tokyonight" width="47%"/>
 </p>
+
 
 ---
 
