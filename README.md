@@ -3,9 +3,9 @@
 **Computer Engineer | Cybersecurity & Full-Stack Development | AI & IoT Explorer | Hacktoberfest Contributor**
 
 🌐 Portfolio: [rohit30confluence.github.io](https://rohit30confluence.github.io)  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-📝 Medium: [medium.com/@your-profile](https://medium.com/@your-profile)  
-🎯 Hacktoberfest Contributions: [hacktoberfest.digitalocean.com/profile/your-github](https://hacktoberfest.digitalocean.com/profile/your-github)
+🔗 LinkedIn: [linkedin.com/in/](linkedin.com/in/rohitdinde)  
+📝 Medium: [medium.com/](https://medium.com/@rohitdinde30)  
+🎯 Hacktoberfest Contributions: [hacktoberfest.digitalocean.com/profile/](https://hacktoberfest.com/profile/)
 
 ---
 
