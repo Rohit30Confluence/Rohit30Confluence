@@ -41,7 +41,7 @@ I am a Computer Engineer currently executing a focused architectural shift. My w
 ## 🏆 Milestones of Grit
 * **2025 Reset:** Started from zero to restructure my career toward Core Engineering.
 * **Hacktoberfest 2025:** Successfully contributed to open-source systems, earning my first global engineering perk.
-* **The Pivot:** Successfully transitioned from international technical operations into high-level IoT infrastructure training.
+* **The Pivot:** Successfully transitioned from international operations into IoT infrastructure training.
 
 ---
 
