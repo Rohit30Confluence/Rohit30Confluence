@@ -106,6 +106,7 @@ I don't fork things quietly and let them rot. These are the projects and communi
 </p>
 
 **Where I'm strongest:** Cross-disciplinary thinking · Problem solving · Systems thinking · Open-source contribution · Network & security
+
 **How I work:** Ownership · Build from scratch · Work · Earn · Learn · Community-first
 
 ---
