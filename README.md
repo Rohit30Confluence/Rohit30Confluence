@@ -1,361 +1,106 @@
-<!-- ========================================================= -->
-<!-- dr.confluence -->
-<!-- GitHub Profile Repository -->
-<!-- ========================================================= -->
-
 <p align="center">
-
-<img src="./assets/hero.svg" width="100%">
-
+  <img src="assets/hero.svg" alt="dr.confluence Hero" width="100%">
 </p>
 
+<h1 align="center">dr.confluence</h1>
+<p align="center"><i>where everything connects.</i></p>
+
 <p align="center">
-
-# dr.confluence
-
-### where everything connects.
-
-Building open-source systems focused on Linux, Networking, Detection Engineering and Artificial Intelligence.
-
+  <a href="https://github.com/Rohit30Confluence">
+    <img src="https://img.shields.io/badge/GitHub-Rohit30Confluence-181717?style=flat&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohitdinde/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit_Dinde-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-# About
+## Overview
 
-Welcome.
-
-I'm **Rohit**, an engineer passionate about understanding how systems work beneath the surface.
-
-Rather than building isolated repositories, I design projects that belong to a connected engineering ecosystem. Each repository exists to solve a practical problem while teaching the underlying concepts through documentation, architecture, and clean implementation.
-
-My long-term goal is to create an ecosystem of reusable open-source software centered around networking, Linux, detection engineering, backend systems, automation, and AI.
-
-Every repository should be understandable.
-
-Every repository should be documented.
-
-Every repository should be extensible.
+I build engineering systems that combine networking, operating systems, detection engineering, automation, and AI. Every repository is part of a larger ecosystem focused on practical, documented, open-source software.
 
 ---
 
-<img src="./assets/logo.svg" width="100%">
+## Featured Systems
 
-# Engineering Domains
-
-This ecosystem is organized around several engineering domains rather than disconnected technologies.
-
-| Domain | Description |
-|---------|-------------|
-| Linux | System administration, automation, internals and tooling |
-| Networking | TCP/IP, sockets, packet capture and analysis |
-| Detection Engineering | IDS concepts, log analysis and attack detection |
-| Backend Systems | APIs, databases and distributed services |
-| Artificial Intelligence | Local AI systems, orchestration and automation |
-| Open Source | Documentation, collaboration and engineering standards |
+| Project | Focus | Status |
+|---|---|---|
+| **NDAP** | Network Detection & Analysis Platform | 🚧 Active |
+| **Packet Sniffer Analyzer** | Packet inspection | 🚧 Active |
+| **Mini Scanner** | Concurrent TCP scanning | ✅ Stable |
+| **Log Analyzer** | Log-based attack detection | ✅ Stable |
+| **Sovereign** | Local multi-agent AI platform | 🚧 Active |
 
 ---
 
-# Core Technologies
+## Engineering Areas
 
-Languages
-
-- Python
-- Bash
-- SQL
-- C
-- C++
-
-Platforms
-
-- Linux
-- Docker
-- Raspberry Pi
-
-Databases
-
-- PostgreSQL
-- MySQL
-
-Networking
-
-- TCP
-- UDP
-- IPv4
-- Packet Capture
-- Wireshark
-
-Engineering
-
-- Git
-- GitHub
-- GitHub Actions
-- FastAPI
-- Flask
+- Systems Programming
+- Linux & Networking
+- Detection Engineering
+- Python & Rust
+- Open Source
+- AI Systems
+- Research & Documentation
 
 ---
 
-# Featured Systems
+## Current Mission
 
-The following repositories form the foundation of the dr.confluence ecosystem.
-
----
-
-<p align="center">
-
-<img src="./assets/architecture/python-packet-sniffer.svg" width="100%">
-
-</p>
-
-## PacketSnifferAnalyzer
-
-Network traffic inspection platform focused on protocol analysis, visualization and extensibility.
-
-Current direction
-
-- Live Capture
-- PCAP Analysis
-- Flow Statistics
-- Protocol Parsing
-- Dashboard
-- Plugin Architecture
-
-Repository
-
-https://github.com/Rohit30Confluence/PacketSnifferAnalyzer
+Build a modular ecosystem of open-source engineering projects that share reusable architecture, documentation, and tooling.
 
 ---
 
-<p align="center">
+## Repository Philosophy
 
-<img src="./assets/architecture/mini-scanner.svg" width="100%">
+Every repository should answer:
 
-</p>
-
-## Mini Scanner
-
-A modular TCP scanner demonstrating scalable Python architecture and concurrent network scanning.
-
-Features
-
-- TCP Connect Scan
-- Banner Grabbing
-- ThreadPoolExecutor
-- JSON Export
-- Flask Dashboard
+1. What problem does it solve?
+2. Why was it built?
+3. How does it work?
+4. How can someone contribute?
+5. Where does it fit in the ecosystem?
 
 ---
 
-<p align="center">
+## Roadmap
 
-<img src="./assets/architecture/log-analyzer-attack-detection.svg" width="100%">
+### Near Term
+- Finish NDAP core engine
+- Improve Packet Sniffer Analyzer
+- Expand Rust networking experience
+- Publish architecture documentation
 
-</p>
+### Mid Term
+- Shared libraries
+- Detection rules
+- CI/CD improvements
+- Docker images
 
-## Log Analyzer & Attack Detection
-
-Detection pipeline designed to identify suspicious behavior inside Apache access logs.
-
-Current capabilities
-
-- SQL Injection Detection
-
-- Cross Site Scripting Detection
-
-- Brute Force Detection
-
-- Anomaly Detection
-
-- FastAPI Backend
+### Long Term
+- Engineering knowledge base
+- Research publications
+- Unified documentation portal
 
 ---
 
-<p align="center">
+## Contact
 
-<img src="./assets/architecture/ndap.svg" width="100%">
-
-</p>
-
-## NDAP
-
-Network Detection & Analysis Platform
-
-NDAP represents the evolution of previous networking projects into a unified detection platform.
-
-Research areas include
-
-- Packet Processing
-
-- Detection Rules
-
-- Modular Pipelines
-
-- Event Processing
-
-- Analytics
+- GitHub: [github.com/Rohit30Confluence](https://github.com/Rohit30Confluence)
+- LinkedIn: [linkedin.com/in/rohitdinde](https://www.linkedin.com/in/rohitdinde/)
 
 ---
 
-<p align="center">
+## Design
 
-<img src="./assets/cards/sovereign.svg" width="100%">
-
-</p>
-
-## SOVEREIGN
-
-Privacy-first local AI engineering platform.
-
-Areas of development
-
-- Multi-Agent Systems
-
-- Memory
-
-- Local LLM
-
-- Engineering Automation
-
-- Research Assistant
-
----
-
-<img src="./assets/divider.svg" width="100%">
-
-# Engineering Ecosystem
-
-<p align="center">
-
-<img src="./assets/architecture/ecosystem.svg" width="100%">
-
-</p>
-
-The repositories are intentionally connected.
-
-PacketSnifferAnalyzer explores packet inspection.
-
-Mini Scanner focuses on reconnaissance.
-
-Log Analyzer expands detection into application logs.
-
-NDAP integrates multiple networking and detection components into a unified platform.
-
-SOVEREIGN extends the ecosystem toward intelligent engineering automation.
-
----
-
-<img src="./assets/divider.svg" width="100%">
-
-# Engineering Philosophy
-
-This ecosystem follows several principles.
-
-## Documentation First
-
-Software should be understandable.
-
-Documentation is treated as part of the product.
-
----
-
-## Architecture Before Code
-
-Every project begins with architecture.
-
-Implementation follows design.
-
----
-
-## Open Engineering
-
-Development happens publicly.
-
-Mistakes, redesigns and improvements remain visible.
-
----
-
-## Reusable Components
-
-Projects should share ideas rather than duplicate implementations.
-
----
-
-## Security by Design
-
-Security is considered during architecture rather than added later.
-
----
-
-## Continuous Improvement
-
-Every repository should evolve through better engineering rather than increasing complexity.
-
----
-
-<img src="./assets/divider.svg" width="100%">
-
-# Current Focus
-
-Current engineering priorities include
-
-- Improving PacketSnifferAnalyzer
-
-- Building NDAP
-
-- Expanding SOVEREIGN
-
-- Improving Documentation
-
-- Architecture Diagrams
-
-- GitHub Actions
-
-- Testing
-
-- Developer Experience
-
----
-
-<img src="./assets/divider.svg" width="100%">
-
-# Repository Standards
-
-Every repository aims to include
-
-✓ README
-
-✓ Documentation
-
-✓ Architecture
-
-✓ Testing
-
-✓ Continuous Integration
-
-✓ Security Policy
-
-✓ Contribution Guide
-
-✓ License
-
-✓ Changelog
-
-✓ API Documentation
-
-✓ Examples
-
-✓ Screenshots
-
-✓ Roadmap
-
-✓ Issues
-
-✓ Discussions
-
----
-
-# Documentation
-
-Additional documentation
+Assets live under:
 
 ```
+assets/
+├── hero.svg
+├── logo.svg
+├── cards/
+└── architecture/
+```
+
