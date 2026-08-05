@@ -1,0 +1,463 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600"
+     height="920"
+     viewBox="0 0 1600 920">
+
+<defs>
+
+<style>
+
+.title{
+font:700 38px Arial,sans-serif;
+fill:#F0F6FC;
+}
+
+.subtitle{
+font:500 18px Arial,sans-serif;
+fill:#8B949E;
+}
+
+.heading{
+font:700 17px Arial,sans-serif;
+fill:#58A6FF;
+}
+
+.text{
+font:400 15px Arial,sans-serif;
+fill:#F0F6FC;
+}
+
+.small{
+font:400 13px Arial,sans-serif;
+fill:#8B949E;
+}
+
+.box{
+fill:#161B22;
+stroke:#30363D;
+stroke-width:2;
+rx:18;
+}
+
+.arrow{
+stroke:#58A6FF;
+stroke-width:3;
+fill:none;
+marker-end:url(#arrowhead);
+}
+
+</style>
+
+<marker id="arrowhead"
+markerWidth="12"
+markerHeight="12"
+refX="10"
+refY="6"
+orient="auto">
+
+<polygon points="0,0 12,6 0,12"
+fill="#58A6FF"/>
+
+</marker>
+
+</defs>
+
+<rect width="1600"
+height="920"
+fill="#0D1117"/>
+
+<!-- HEADER -->
+
+<text x="60"
+y="70"
+class="title">
+
+Mini Scanner
+
+</text>
+
+<text x="60"
+y="105"
+class="subtitle">
+
+Modular TCP Port Scanner Architecture
+
+</text>
+
+<!-- INPUT -->
+
+<rect class="box"
+x="70"
+y="180"
+width="270"
+height="170"/>
+
+<text x="100"
+y="220"
+class="heading">
+
+USER INPUT
+
+</text>
+
+<text x="100"
+y="255"
+class="text">
+
+CLI Arguments
+
+</text>
+
+<text x="100"
+y="285"
+class="text">
+
+Flask Web UI
+
+</text>
+
+<text x="100"
+y="315"
+class="text">
+
+Static Demo
+
+</text>
+
+<!-- PARSER -->
+
+<rect class="box"
+x="450"
+y="180"
+width="260"
+height="180"/>
+
+<text x="480"
+y="220"
+class="heading">
+
+REQUEST PROCESSING
+
+</text>
+
+<text x="480"
+y="255"
+class="text">
+
+Argument Parser
+
+</text>
+
+<text x="480"
+y="285"
+class="text">
+
+Target Validation
+
+</text>
+
+<text x="480"
+y="315"
+class="text">
+
+Hostname Resolution
+
+</text>
+
+<!-- ENGINE -->
+
+<rect class="box"
+x="830"
+y="140"
+width="350"
+height="300"/>
+
+<text x="870"
+y="185"
+class="heading">
+
+SCANNER ENGINE
+
+</text>
+
+<text x="870"
+y="225"
+class="text">
+
+TCP Connect Scan
+
+</text>
+
+<text x="870"
+y="255"
+class="text">
+
+ThreadPoolExecutor
+
+</text>
+
+<text x="870"
+y="285"
+class="text">
+
+Socket Connections
+
+</text>
+
+<text x="870"
+y="315"
+class="text">
+
+Banner Grabbing
+
+</text>
+
+<text x="870"
+y="345"
+class="text">
+
+Result Objects
+
+</text>
+
+<text x="870"
+y="375"
+class="small">
+
+mini_scanner/scanner.py
+
+</text>
+
+<!-- OUTPUT -->
+
+<rect class="box"
+x="1310"
+y="180"
+width="240"
+height="190"/>
+
+<text x="1340"
+y="220"
+class="heading">
+
+OUTPUT
+
+</text>
+
+<text x="1340"
+y="255"
+class="text">
+
+Terminal Table
+
+</text>
+
+<text x="1340"
+y="285"
+class="text">
+
+JSON Export
+
+</text>
+
+<text x="1340"
+y="315"
+class="text">
+
+Patch Panel UI
+
+</text>
+
+<!-- MODULES -->
+
+<rect class="box"
+x="270"
+y="590"
+width="340"
+height="220"/>
+
+<text x="300"
+y="630"
+class="heading">
+
+CORE MODULES
+
+</text>
+
+<text x="300"
+y="665"
+class="text">
+
+config.py
+
+</text>
+
+<text x="300"
+y="695"
+class="text">
+
+target.py
+
+</text>
+
+<text x="300"
+y="725"
+class="text">
+
+result.py
+
+</text>
+
+<text x="300"
+y="755"
+class="text">
+
+output.py
+
+</text>
+
+<!-- WEB -->
+
+<rect class="box"
+x="770"
+y="590"
+width="340"
+height="220"/>
+
+<text x="800"
+y="630"
+class="heading">
+
+WEB LAYER
+
+</text>
+
+<text x="800"
+y="665"
+class="text">
+
+Flask Web Console
+
+</text>
+
+<text x="800"
+y="695"
+class="text">
+
+Live Scan Engine
+
+</text>
+
+<text x="800"
+y="725"
+class="text">
+
+GitHub Pages Demo
+
+</text>
+
+<!-- QA -->
+
+<rect class="box"
+x="1230"
+y="590"
+width="280"
+height="220"/>
+
+<text x="1260"
+y="630"
+class="heading">
+
+QUALITY
+
+</text>
+
+<text x="1260"
+y="665"
+class="text">
+
+pytest
+
+</text>
+
+<text x="1260"
+y="695"
+class="text">
+
+ruff
+
+</text>
+
+<text x="1260"
+y="725"
+class="text">
+
+black
+
+</text>
+
+<text x="1260"
+y="755"
+class="text">
+
+mypy
+
+</text>
+
+<!-- FLOW -->
+
+<line class="arrow"
+x1="340"
+y1="265"
+x2="450"
+y2="265"/>
+
+<line class="arrow"
+x1="710"
+y1="265"
+x2="830"
+y2="265"/>
+
+<line class="arrow"
+x1="1180"
+y1="265"
+x2="1310"
+y2="265"/>
+
+<line class="arrow"
+x1="930"
+y1="440"
+x2="930"
+y2="590"/>
+
+<line class="arrow"
+x1="820"
+y1="380"
+x2="470"
+y2="590"/>
+
+<line class="arrow"
+x1="1080"
+y1="380"
+x2="1330"
+y2="590"/>
+
+<!-- FOOTER -->
+
+<line
+x1="60"
+y1="860"
+x2="1540"
+y2="860"
+stroke="#30363D"/>
+
+<text
+x="60"
+y="890"
+class="small">
+
+dr.confluence • Mini Scanner • Architecture v1.0
+
+</text>
+
+</svg>
