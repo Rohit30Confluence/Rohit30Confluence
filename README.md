@@ -1,198 +1,108 @@
+# dr.confluence
 
-# <h1 align="center">Hi, I'm Rohit Dinde 👋</h1>
+> **where everything connects.**
 
-<h3 align="center">Building practical security systems from the ground up.</h3>
-
+```{=html}
 <p align="center">
-Open Source • Detection Engineering • Network Analysis • AI Security
+```
+`<img src="assets/hero.svg" alt="dr.confluence Hero" width="100%">`{=html}
+```{=html}
 </p>
+```
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Open+Source+Builder;Detection+Engineering;Network+Analysis;Threat+Detection;Linux+%7C+Python+%7C+Rust;Learning+Never+Stops"/>
-</p>
+------------------------------------------------------------------------
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=dr.confluence&fontSize=60&fontAlignY=40&color=0:FF8A3D,100:2DD4BF&animation=fadeIn"/>
-</p>
+## Overview
 
----
+I build engineering systems that combine networking, operating systems,
+detection engineering, automation, and AI. Every repository is part of a
+larger ecosystem focused on practical, documented, open-source software.
 
-# About Me
+## Featured Systems
 
-I'm **Rohit Dinde**, an open-source engineer focused on building practical security software. My work centers on networking, packet analysis, detection engineering, Linux systems, and automation.
+  Project                   Focus                                   Status
+  ------------------------- --------------------------------------- -----------
+  NDAP                      Network Detection & Analysis Platform   🚧 Active
+  Packet Sniffer Analyzer   Packet inspection                       🚧 Active
+  Mini Scanner              Concurrent TCP scanning                 ✅ Stable
+  Log Analyzer              Log-based attack detection              ✅ Stable
+  Sovereign                 Local multi-agent AI platform           🚧 Active
 
-I enjoy turning ideas into maintainable tools with good documentation and clean architecture.
+------------------------------------------------------------------------
 
-## Engineering Philosophy
+## Engineering Areas
 
-> Build tools that solve real problems.  
-> Learn deeply.  
-> Share openly.  
-> Improve continuously.
+-   Systems Programming
+-   Linux & Networking
+-   Detection Engineering
+-   Python & Rust
+-   Open Source
+-   AI Systems
+-   Research & Documentation
 
----
+------------------------------------------------------------------------
 
-# 🚀 Featured Projects
+## Current Mission
 
-| Project | Description |
-|---------|-------------|
-| **NDAP** | Modular Network Detection & Analysis Platform. |
-| **Mini Scanner** | Lightweight concurrent TCP scanner. |
-| **Python Packet Sniffer** | Packet capture and protocol analysis toolkit. |
-| **Log Analyzer Attack Detection** | Rule-based Apache log attack detection. |
+Build a modular ecosystem of open-source engineering projects that share
+reusable architecture, documentation, and tooling.
 
-## Links
+------------------------------------------------------------------------
 
-- NDAP — https://github.com/Rohit30Confluence/ndap
-- Mini Scanner — https://github.com/Rohit30Confluence/mini-scanner
-- Live Demo — https://rohit30confluence.github.io/mini-scanner/
-- Python Packet Sniffer — https://github.com/Rohit30Confluence/python-packet-sniffer
-- Log Analyzer — https://github.com/Rohit30Confluence/log-analyzer-attack-detection
+## Repository Philosophy
 
----
+Every repository should answer:
 
-# 🧰 Tech Stack
+1.  What problem does it solve?
+2.  Why was it built?
+3.  How does it work?
+4.  How can someone contribute?
+5.  Where does it fit in the ecosystem?
 
-### Languages
+------------------------------------------------------------------------
 
-`Python` `Rust` `C` `SQL` `Bash`
+## Roadmap
 
-### Platforms
+### Near Term
 
-`Linux` `Docker` `Git` `GitHub Actions`
+-   Finish NDAP core engine
+-   Improve Packet Sniffer Analyzer
+-   Expand Rust networking experience
+-   Publish architecture documentation
 
-### Security
+### Mid Term
 
-`Networking`
-`Packet Analysis`
-`Detection Engineering`
-`Threat Intelligence`
-`Sigma`
-`YARA`
+-   Shared libraries
+-   Detection rules
+-   CI/CD improvements
+-   Docker images
 
----
+### Long Term
 
-# 📈 GitHub Dashboard
+-   Engineering knowledge base
+-   Research publications
+-   Unified documentation portal
 
-<p align="center">
+------------------------------------------------------------------------
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohit30Confluence&show_icons=true&theme=github_dark&hide_border=true"/>
+## Contact
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit30Confluence&theme=github-dark&hide_border=true"/>
+-   GitHub: https://github.com/Rohit30Confluence
+-   LinkedIn: https://www.linkedin.com/in/rohitdinde/
 
-</p>
+------------------------------------------------------------------------
 
-<p align="center">
+## Design
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit30Confluence&theme=github-dark&hide_border=true"/>
+Assets live under:
 
-</p>
+``` text
+assets/
+├── hero.svg
+├── logo.svg
+├── cards/
+└── architecture/
+```
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit30Confluence&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Rohit30Confluence/Rohit30Confluence/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🌍 Open Source Footprint
-
-## Featured Forks
-
-- worldmonitor
-- Artemis
-- gemini-cli
-- PentestGPT
-- GitHub Security Lab
-- Honeynet
-- System Design Primer
-
-## Projects I Follow
-
-- NVIDIA SkillSpector
-- worldmonitor
-- Backstage
-- AgentGateway
-- PythonRobotics
-- Cal.com
-- CERT Polska Artemis
-- Gemini CLI
-- RuView
-
----
-
-# 📚 Current Focus
-
-- Expand NDAP
-- Detection Engineering
-- Rust
-- Linux Internals
-- AI Security
-- Security Research
-
----
-
-# 🧭 Engineering Roadmap
-
-- Mature NDAP
-- Build larger Rust projects
-- Publish technical research
-- Contribute to established security projects
-- Grow as an Open Source Maintainer
-
----
-
-# 💻 Development Environment
-
-- Linux
-- macOS
-- VS Code
-- Docker
-- Wireshark
-- PostgreSQL
-- GitHub Actions
-
----
-
-# 🤝 Let's Collaborate
-
-I'm interested in collaborating on:
-
-- Detection Engineering
-- Network Security
-- AI Security
-- Backend Infrastructure
-- Linux Tooling
-- Security Research
-
----
-
-# 📬 Connect
-
-- GitHub: https://github.com/Rohit30Confluence
-- LinkedIn: https://www.linkedin.com/in/rohitdinde/
-- Portfolio: https://rohit30confluence.github.io
-- Email: dinde.infosec@gmail.com
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rohit30Confluence&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-<p align="center">
-<b>Building practical security software, one repository at a time.</b>
-</p>
+The profile is intentionally minimal, documentation-first, and designed
+to scale with future repositories.
