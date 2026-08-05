@@ -1,0 +1,535 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1800"
+     height="1000"
+     viewBox="0 0 1800 1000">
+
+<defs>
+
+<style>
+
+.title{
+font:700 40px Arial,sans-serif;
+fill:#F0F6FC;
+}
+
+.subtitle{
+font:500 18px Arial,sans-serif;
+fill:#8B949E;
+}
+
+.heading{
+font:700 18px Arial,sans-serif;
+fill:#58A6FF;
+}
+
+.text{
+font:400 15px Arial,sans-serif;
+fill:#F0F6FC;
+}
+
+.small{
+font:400 13px Arial,sans-serif;
+fill:#8B949E;
+}
+
+.box{
+fill:#161B22;
+stroke:#30363D;
+stroke-width:2;
+rx:18;
+}
+
+.arrow{
+stroke:#58A6FF;
+stroke-width:3;
+fill:none;
+marker-end:url(#arrowhead);
+}
+
+</style>
+
+<marker id="arrowhead"
+markerWidth="12"
+markerHeight="12"
+refX="10"
+refY="6"
+orient="auto">
+
+<polygon points="0,0 12,6 0,12"
+fill="#58A6FF"/>
+
+</marker>
+
+</defs>
+
+<rect width="1800"
+height="1000"
+fill="#0D1117"/>
+
+<!-- HEADER -->
+
+<text x="60"
+y="70"
+class="title">
+
+PacketSnifferAnalyzer
+
+</text>
+
+<text x="60"
+y="105"
+class="subtitle">
+
+Clean Architecture • Hexagonal (Ports & Adapters)
+
+</text>
+
+<!-- ADAPTERS -->
+
+<rect class="box"
+x="60"
+y="180"
+width="250"
+height="280"/>
+
+<text x="90"
+y="220"
+class="heading">
+
+INPUT ADAPTERS
+
+</text>
+
+<text x="90"
+y="260"
+class="text">
+
+CLI
+
+</text>
+
+<text x="90"
+y="290"
+class="text">
+
+PyQt6 GUI
+
+</text>
+
+<text x="90"
+y="320"
+class="text">
+
+FastAPI Dashboard
+
+</text>
+
+<text x="90"
+y="350"
+class="text">
+
+PCAP Files
+
+</text>
+
+<text x="90"
+y="380"
+class="text">
+
+Network Interfaces
+
+</text>
+
+<!-- APPLICATION -->
+
+<rect class="box"
+x="430"
+y="140"
+width="360"
+height="360"/>
+
+<text x="470"
+y="185"
+class="heading">
+
+APPLICATION SERVICES
+
+</text>
+
+<text x="470"
+y="225"
+class="text">
+
+Capture Controller
+
+</text>
+
+<text x="470"
+y="255"
+class="text">
+
+Session Manager
+
+</text>
+
+<text x="470"
+y="285"
+class="text">
+
+Export Manager
+
+</text>
+
+<text x="470"
+y="315"
+class="text">
+
+Alert Engine
+
+</text>
+
+<text x="470"
+y="345"
+class="text">
+
+Plugin Manager
+
+</text>
+
+<text x="470"
+y="375"
+class="text">
+
+Filter Engine
+
+</text>
+
+<!-- DOMAIN -->
+
+<rect class="box"
+x="920"
+y="120"
+width="420"
+height="400"/>
+
+<text x="960"
+y="165"
+class="heading">
+
+CORE DOMAIN
+
+</text>
+
+<text x="960"
+y="210"
+class="text">
+
+Packet Capture
+
+</text>
+
+<text x="960"
+y="245"
+class="text">
+
+Protocol Dissector
+
+</text>
+
+<text x="960"
+y="280"
+class="text">
+
+Flow Tracker
+
+</text>
+
+<text x="960"
+y="315"
+class="text">
+
+Statistics Engine
+
+</text>
+
+<text x="960"
+y="350"
+class="text">
+
+Offline Analysis
+
+</text>
+
+<text x="960"
+y="385"
+class="text">
+
+Encryption
+
+</text>
+
+<text x="960"
+y="420"
+class="text">
+
+Audit Logging
+
+</text>
+
+<!-- OUTPUT -->
+
+<rect class="box"
+x="1480"
+y="180"
+width="260"
+height="310"/>
+
+<text x="1510"
+y="220"
+class="heading">
+
+OUTPUT ADAPTERS
+
+</text>
+
+<text x="1510"
+y="260"
+class="text">
+
+CLI Output
+
+</text>
+
+<text x="1510"
+y="295"
+class="text">
+
+Desktop GUI
+
+</text>
+
+<text x="1510"
+y="330"
+class="text">
+
+Web Dashboard
+
+</text>
+
+<text x="1510"
+y="365"
+class="text">
+
+JSON
+
+</text>
+
+<text x="1510"
+y="400"
+class="text">
+
+CSV
+
+</text>
+
+<text x="1510"
+y="435"
+class="text">
+
+PCAP Export
+
+</text>
+
+<!-- SECURITY -->
+
+<rect class="box"
+x="330"
+y="650"
+width="360"
+height="220"/>
+
+<text x="360"
+y="690"
+class="heading">
+
+SECURITY
+
+</text>
+
+<text x="360"
+y="725"
+class="text">
+
+AES-256-GCM
+
+</text>
+
+<text x="360"
+y="755"
+class="text">
+
+Argon2id
+
+</text>
+
+<text x="360"
+y="785"
+class="text">
+
+Audit Trail
+
+</text>
+
+<text x="360"
+y="815"
+class="text">
+
+Privilege Drop
+
+</text>
+
+<!-- OBSERVABILITY -->
+
+<rect class="box"
+x="860"
+y="650"
+width="420"
+height="220"/>
+
+<text x="900"
+y="690"
+class="heading">
+
+OBSERVABILITY
+
+</text>
+
+<text x="900"
+y="725"
+class="text">
+
+Packets/sec
+
+</text>
+
+<text x="900"
+y="755"
+class="text">
+
+Bytes/sec
+
+</text>
+
+<text x="900"
+y="785"
+class="text">
+
+Top Talkers
+
+</text>
+
+<text x="900"
+y="815"
+class="text">
+
+Protocol Distribution
+
+</text>
+
+<!-- PLUGINS -->
+
+<rect class="box"
+x="1400"
+y="650"
+width="300"
+height="220"/>
+
+<text x="1435"
+y="690"
+class="heading">
+
+EXTENSIONS
+
+</text>
+
+<text x="1435"
+y="725"
+class="text">
+
+Custom Dissectors
+
+</text>
+
+<text x="1435"
+y="755"
+class="text">
+
+Alert Rules
+
+</text>
+
+<text x="1435"
+y="785"
+class="text">
+
+Future Plugins
+
+</text>
+
+<!-- FLOW -->
+
+<line class="arrow"
+x1="310"
+y1="320"
+x2="430"
+y2="320"/>
+
+<line class="arrow"
+x1="790"
+y1="320"
+x2="920"
+y2="320"/>
+
+<line class="arrow"
+x1="1340"
+y1="320"
+x2="1480"
+y2="320"/>
+
+<line class="arrow"
+x1="610"
+y1="500"
+x2="510"
+y2="650"/>
+
+<line class="arrow"
+x1="1130"
+y1="520"
+x2="1080"
+y2="650"/>
+
+<line class="arrow"
+x1="1260"
+y1="500"
+x2="1510"
+y2="650"/>
+
+<!-- FOOTER -->
+
+<line
+x1="60"
+y1="940"
+x2="1740"
+y2="940"
+stroke="#30363D"/>
+
+<text
+x="60"
+y="970"
+class="small">
+
+dr.confluence • PacketSnifferAnalyzer • Clean Architecture • v1.0
+
+</text>
+
+</svg>
