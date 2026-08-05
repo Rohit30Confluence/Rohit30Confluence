@@ -1,108 +1,169 @@
-# dr.confluence
+<h1 align="center">dr.confluence</h1>
 
-> **where everything connects.**
-
-```{=html}
 <p align="center">
-```
-`<img src="assets/hero.svg" alt="dr.confluence Hero" width="100%">`{=html}
-```{=html}
+Building open-source systems for networking, Linux, detection engineering, and AI.
 </p>
+
+<p align="center">
+<i>where everything connects.</i>
+</p>
+
+---
+
+# About
+
+I'm **Rohit**, an open-source engineer focused on building practical systems software.
+
+My work centers on networking, Linux internals, packet analysis, detection engineering, backend infrastructure, and privacy-first AI systems.
+
+Rather than building isolated projects, I design software that forms part of a larger engineering ecosystem—where every repository teaches a concept, solves a real problem, and follows consistent engineering principles.
+
+---
+
+# Engineering Focus
+
+| Systems | Security | Infrastructure |
+|----------|----------|----------------|
+| Linux | Detection Engineering | Docker |
+| Networking | Packet Analysis | PostgreSQL |
+| Python | Log Analysis | GitHub Actions |
+| System Design | Open Source | CI/CD |
+
+---
+
+# Featured Systems
+
+## PacketSnifferAnalyzer
+
+A modular packet capture and network analysis platform built around Clean Architecture and extensible protocol analysis.
+
+**Focus**
+
+- Live packet capture
+- Protocol decoding
+- Flow analysis
+- Plugin architecture
+- Desktop GUI
+- Web dashboard
+
+---
+
+## Mini Scanner
+
+A lightweight TCP port scanner demonstrating modern Python architecture, concurrency, and extensibility.
+
+**Focus**
+
+- TCP scanning
+- ThreadPoolExecutor
+- Banner grabbing
+- Flask interface
+- JSON export
+
+---
+
+## Log Analyzer & Attack Detection
+
+A detection pipeline that parses Apache access logs and identifies common attack patterns.
+
+**Focus**
+
+- SQL Injection detection
+- XSS detection
+- Brute-force detection
+- Anomaly detection
+- FastAPI backend
+
+---
+
+## NDAP
+
+The next-generation Network Detection & Analysis Platform.
+
+Current research focuses on building a scalable packet-processing and detection pipeline with modular analysis components.
+
+---
+
+## SOVEREIGN
+
+A privacy-first multi-agent AI platform running completely on local infrastructure.
+
+Current work includes orchestration, memory systems, local inference, and engineering automation.
+
+---
+
+# Engineering Ecosystem
+
+```text
+                 dr.confluence
+
+                       │
+
+        ┌──────────────┼──────────────┐
+
+ PacketSnifferAnalyzer  Mini Scanner  Log Analyzer
+
+               │
+
+               ▼
+
+              NDAP
+
+               │
+
+               ▼
+
+           SOVEREIGN
 ```
 
-------------------------------------------------------------------------
+*A visual architecture diagram will replace this text diagram.*
 
-## Overview
+---
 
-I build engineering systems that combine networking, operating systems,
-detection engineering, automation, and AI. Every repository is part of a
-larger ecosystem focused on practical, documented, open-source software.
+# Current Focus
 
-## Featured Systems
+Current engineering priorities:
 
-  Project                   Focus                                   Status
-  ------------------------- --------------------------------------- -----------
-  NDAP                      Network Detection & Analysis Platform   🚧 Active
-  Packet Sniffer Analyzer   Packet inspection                       🚧 Active
-  Mini Scanner              Concurrent TCP scanning                 ✅ Stable
-  Log Analyzer              Log-based attack detection              ✅ Stable
-  Sovereign                 Local multi-agent AI platform           🚧 Active
+- Improving PacketSnifferAnalyzer
+- Expanding NDAP
+- Advancing SOVEREIGN
+- Strengthening documentation
+- Building reusable engineering standards across projects
 
-------------------------------------------------------------------------
+---
 
-## Engineering Areas
+# Engineering Principles
 
--   Systems Programming
--   Linux & Networking
--   Detection Engineering
--   Python & Rust
--   Open Source
--   AI Systems
--   Research & Documentation
+- Documentation First
+- Build in Public
+- Clean Architecture
+- Security by Design
+- Reusable Components
+- Automation over Repetition
+- Open Source Collaboration
 
-------------------------------------------------------------------------
+---
 
-## Current Mission
+# Repository Philosophy
 
-Build a modular ecosystem of open-source engineering projects that share
-reusable architecture, documentation, and tooling.
+Every repository should:
 
-------------------------------------------------------------------------
+- Solve a real engineering problem.
+- Be understandable by contributors.
+- Include architecture documentation.
+- Follow consistent project structure.
+- Prioritize maintainability over complexity.
 
-## Repository Philosophy
+---
 
-Every repository should answer:
+# Connect
 
-1.  What problem does it solve?
-2.  Why was it built?
-3.  How does it work?
-4.  How can someone contribute?
-5.  Where does it fit in the ecosystem?
+- GitHub: https://github.com/Rohit30Confluence
+- LinkedIn: https://www.linkedin.com/in/rohitdinde/
+- Portfolio: https://rohit30confluence.github.io
 
-------------------------------------------------------------------------
+---
 
-## Roadmap
-
-### Near Term
-
--   Finish NDAP core engine
--   Improve Packet Sniffer Analyzer
--   Expand Rust networking experience
--   Publish architecture documentation
-
-### Mid Term
-
--   Shared libraries
--   Detection rules
--   CI/CD improvements
--   Docker images
-
-### Long Term
-
--   Engineering knowledge base
--   Research publications
--   Unified documentation portal
-
-------------------------------------------------------------------------
-
-## Contact
-
--   GitHub: https://github.com/Rohit30Confluence
--   LinkedIn: https://www.linkedin.com/in/rohitdinde/
-
-------------------------------------------------------------------------
-
-## Design
-
-Assets live under:
-
-``` text
-assets/
-├── hero.svg
-├── logo.svg
-├── cards/
-└── architecture/
-```
-
-The profile is intentionally minimal, documentation-first, and designed
-to scale with future repositories.
+<p align="center">
+where everything connects.
+</p>
