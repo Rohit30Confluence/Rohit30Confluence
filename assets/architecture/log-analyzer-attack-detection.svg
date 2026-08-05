@@ -1,0 +1,443 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600"
+     height="900"
+     viewBox="0 0 1600 900">
+
+<defs>
+
+<style>
+
+.title{
+font:700 36px Arial,sans-serif;
+fill:#F0F6FC;
+}
+
+.subtitle{
+font:500 18px Arial,sans-serif;
+fill:#8B949E;
+}
+
+.heading{
+font:700 17px Arial,sans-serif;
+fill:#58A6FF;
+}
+
+.text{
+font:400 15px Arial,sans-serif;
+fill:#F0F6FC;
+}
+
+.small{
+font:400 13px Arial,sans-serif;
+fill:#8B949E;
+}
+
+.box{
+fill:#161B22;
+stroke:#30363D;
+stroke-width:2;
+rx:18;
+}
+
+.arrow{
+stroke:#58A6FF;
+stroke-width:3;
+fill:none;
+marker-end:url(#arrow);
+}
+
+</style>
+
+<marker id="arrow"
+markerWidth="12"
+markerHeight="12"
+refX="10"
+refY="6"
+orient="auto">
+
+<polygon points="0,0 12,6 0,12"
+fill="#58A6FF"/>
+
+</marker>
+
+</defs>
+
+<rect width="1600"
+height="900"
+fill="#0D1117"/>
+
+<text x="60"
+y="70"
+class="title">
+
+Log Analyzer & Attack Detection
+
+</text>
+
+<text x="60"
+y="105"
+class="subtitle">
+
+Architecture Overview
+
+</text>
+
+<!-- INPUT -->
+
+<rect class="box"
+x="70"
+y="180"
+width="230"
+height="130"/>
+
+<text x="95"
+y="220"
+class="heading">
+
+INPUT
+
+</text>
+
+<text x="95"
+y="255"
+class="text">
+
+Apache Access Logs
+
+</text>
+
+<text x="95"
+y="282"
+class="text">
+
+Common Log Format
+
+</text>
+
+<text x="95"
+y="309"
+class="text">
+
+Combined Log Format
+
+</text>
+
+<!-- PARSER -->
+
+<rect class="box"
+x="420"
+y="180"
+width="240"
+height="150"/>
+
+<text x="450"
+y="220"
+class="heading">
+
+PARSER
+
+</text>
+
+<text x="450"
+y="255"
+class="text">
+
+parser.py
+
+</text>
+
+<text x="450"
+y="282"
+class="text">
+
+Line → Structured Dict
+
+</text>
+
+<text x="450"
+y="309"
+class="text">
+
+Streaming Parser
+
+</text>
+
+<!-- DETECTOR -->
+
+<rect class="box"
+x="790"
+y="150"
+width="310"
+height="250"/>
+
+<text x="825"
+y="190"
+class="heading">
+
+AttackDetector
+
+</text>
+
+<text x="825"
+y="235"
+class="text">
+
+Brute Force
+
+</text>
+
+<text x="825"
+y="265"
+class="text">
+
+SQL Injection
+
+</text>
+
+<text x="825"
+y="295"
+class="text">
+
+Cross Site Scripting
+
+</text>
+
+<text x="825"
+y="325"
+class="text">
+
+Volume Anomaly Detection
+
+</text>
+
+<text x="825"
+y="355"
+class="small">
+
+detector.py
+
+</text>
+
+<!-- OUTPUT -->
+
+<rect class="box"
+x="1240"
+y="180"
+width="270"
+height="170"/>
+
+<text x="1270"
+y="220"
+class="heading">
+
+RESULTS
+
+</text>
+
+<text x="1270"
+y="255"
+class="text">
+
+CLI Summary
+
+</text>
+
+<text x="1270"
+y="285"
+class="text">
+
+Attack Counts
+
+</text>
+
+<text x="1270"
+y="315"
+class="text">
+
+Risk Findings
+
+</text>
+
+<!-- CLI -->
+
+<rect class="box"
+x="250"
+y="560"
+width="280"
+height="170"/>
+
+<text x="280"
+y="600"
+class="heading">
+
+CLI
+
+</text>
+
+<text x="280"
+y="635"
+class="text">
+
+cli.py
+
+</text>
+
+<text x="280"
+y="665"
+class="text">
+
+Analyze Logs
+
+</text>
+
+<text x="280"
+y="695"
+class="text">
+
+Generate Charts
+
+</text>
+
+<!-- BACKEND -->
+
+<rect class="box"
+x="650"
+y="560"
+width="320"
+height="190"/>
+
+<text x="685"
+y="600"
+class="heading">
+
+Backend Service
+
+</text>
+
+<text x="685"
+y="635"
+class="text">
+
+FastAPI
+
+</text>
+
+<text x="685"
+y="665"
+class="text">
+
+Redis Queue
+
+</text>
+
+<text x="685"
+y="695"
+class="text">
+
+Worker
+
+</text>
+
+<text x="685"
+y="725"
+class="text">
+
+Realtime Stream
+
+</text>
+
+<!-- VIS -->
+
+<rect class="box"
+x="1110"
+y="560"
+width="330"
+height="180"/>
+
+<text x="1145"
+y="600"
+class="heading">
+
+Reporting
+
+</text>
+
+<text x="1145"
+y="635"
+class="text">
+
+Console Output
+
+</text>
+
+<text x="1145"
+y="665"
+class="text">
+
+Matplotlib Charts
+
+</text>
+
+<text x="1145"
+y="695"
+class="text">
+
+JSON Results
+
+</text>
+
+<!-- FLOW -->
+
+<line class="arrow"
+x1="300"
+y1="245"
+x2="420"
+y2="245"/>
+
+<line class="arrow"
+x1="660"
+y1="245"
+x2="790"
+y2="245"/>
+
+<line class="arrow"
+x1="1100"
+y1="245"
+x2="1240"
+y2="245"/>
+
+<line class="arrow"
+x1="940"
+y1="400"
+x2="810"
+y2="560"/>
+
+<line class="arrow"
+x1="970"
+y1="400"
+x2="1260"
+y2="560"/>
+
+<line class="arrow"
+x1="520"
+y1="330"
+x2="390"
+y2="560"/>
+
+<!-- FOOTER -->
+
+<line x1="60"
+y1="830"
+x2="1540"
+y2="830"
+stroke="#30363D"/>
+
+<text x="60"
+y="860"
+class="small">
+
+dr.confluence • Log Analyzer & Attack Detection • Architecture v1.0
+
+</text>
+
+</svg>
