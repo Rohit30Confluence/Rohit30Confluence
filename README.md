@@ -39,7 +39,7 @@ Every repository should be extensible.
 
 ---
 
-<img src="./assets/divider.svg" width="100%">
+<img src="./assets/logo.svg" width="100%">
 
 # Engineering Domains
 
@@ -95,8 +95,6 @@ Engineering
 
 ---
 
-<img src="./assets/divider.svg" width="100%">
-
 # Featured Systems
 
 The following repositories form the foundation of the dr.confluence ecosystem.
@@ -105,7 +103,7 @@ The following repositories form the foundation of the dr.confluence ecosystem.
 
 <p align="center">
 
-<img src="./assets/cards/packet-sniffer.svg" width="100%">
+<img src="./assets/architecture/python-packet-sniffer.svg" width="100%">
 
 </p>
 
@@ -130,7 +128,7 @@ https://github.com/Rohit30Confluence/PacketSnifferAnalyzer
 
 <p align="center">
 
-<img src="./assets/cards/mini-scanner.svg" width="100%">
+<img src="./assets/architecture/mini-scanner.svg" width="100%">
 
 </p>
 
@@ -150,7 +148,7 @@ Features
 
 <p align="center">
 
-<img src="./assets/cards/log-analyzer.svg" width="100%">
+<img src="./assets/architecture/log-analyzer-attack-detection.svg" width="100%">
 
 </p>
 
@@ -174,7 +172,7 @@ Current capabilities
 
 <p align="center">
 
-<img src="./assets/cards/ndap.svg" width="100%">
+<img src="./assets/architecture/ndap.svg" width="100%">
 
 </p>
 
