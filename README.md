@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="./assets/hero.svg" alt="dr.confluence" width="100%">
 </p>
