@@ -67,7 +67,7 @@ A technical analysis of Russia's cyber operations against Ukraine (2022–2023),
 
 `Threat Intelligence` `MITRE ATT&CK` `DFIR` `SOC`
 
-[**Read the handbook ↓**](https://rohit30confluence.github.io/Modern-Cyber-Warfare-Threat-Intelligence-Handbook.pdf) · PDF · 12.5 MB
+[**Read the handbook ↓**](https://github.com/Rohit30Confluence/Rohit30Confluence/blob/main/Modern-Cyber-Warfare-Threat-Intelligence-Handbook.pdf) · PDF · 12.5 MB
 
 </td>
 </tr>
